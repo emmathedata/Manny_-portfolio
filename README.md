@@ -1,4 +1,4 @@
-# My Projects by Emmanuel amodu
+# My Projects by Emmanuel Amodu
 
 ## Sales analysis (Excel)
 
