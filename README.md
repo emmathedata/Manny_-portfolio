@@ -40,13 +40,12 @@ Most of this analysis was done using Excel pivot tables and visualizations consi
 
 ![Top products](/Images/Top_products.png)
 
-- Which months of 2019 will generate the highest profits and on which dates? The sales analysis was made over time
+- Which months of 2019 will generate the highest profits?
 
-![Sales by Month](/Images/Sales%20by%20month.png)
+![Sales by Month](/Images/Sales_by_month.png)
 
 - What states purchase our products the most?
-![Sales by State](/images/Sales_by_State.png)
-
+![Sales by State](/Images/Sales_by_State.png)
 
 ## Vizualitation:
 Finally we obtained a dashboard showing the sales in a general way.
