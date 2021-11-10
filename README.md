@@ -1,4 +1,4 @@
-# Manny_-portfolio
+# My Projects by Emmanuel amodu
 
 # Sales analysis (Excel)
 
@@ -10,6 +10,8 @@
 (My laptop was not happy about this :P)
 
 You can access to it here **[Link](https://github.com/emmathedata/Sales-analysis-Excel-)**
+
+[![go to project](Sales-analysis-Excel-/overview.png)](https://github.com/emmathedata/Sales-analysis-Excel-)
 
 ## Objetives:
 ### Questions that will drive the analysis
