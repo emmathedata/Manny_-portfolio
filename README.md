@@ -1,8 +1,8 @@
 # My Projects by Emmanuel amodu
 
-# Sales analysis (Excel)
+## Sales analysis (Excel)
 
-## [Project Overview](https://github.com/emmathedata/Sales-analysis-Excel-)
+### [Project Overview](https://github.com/emmathedata/Sales-analysis-Excel-)
 - An electronics store needs to increase its profits
 - A KPI is found that will allow to increase profits at the lowest cost.
 - Sales were evaluated by product, city, state and months.
