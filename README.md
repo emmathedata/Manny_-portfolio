@@ -11,7 +11,7 @@
 
 You can access to it here **[Link](https://github.com/emmathedata/Sales-analysis-Excel-)**
 
-![](https://github.com/emmathedata/Manny_-portfolio/blob/main/Images/overview.png)
+![](/Images/overview.png)
 
 ## Objetives:
 ### Questions that will drive the analysis
@@ -23,7 +23,7 @@ You can access to it here **[Link](https://github.com/emmathedata/Sales-analysis
 The data shows the sales of an electronics store, you can see the raw data in this 
 As you can see in the image below, the format of the data was not appropriate for the analysis, so it had to be cleaned and prepared. 
 
-![](https://github.com/emmathedata/Manny_-portfolio/blob/main/Images/Rawdata.PNG)
+![](/Images/Rawdata.PNG)
 
 The activities performed were the following:
 - Eliminate duplicates and cells that did not correspond to the data.
@@ -31,27 +31,27 @@ The activities performed were the following:
 - Adjust the dates because they did not have the proper format.
 - Created city and state columns for the analysis.
 
-![](https://github.com/emmathedata/Manny_-portfolio/blob/main/Images/Cleandata.png)
+![](/Images/Cleandata.png)
 
 ## Data analysis:
 Most of this analysis was done using Excel pivot tables and visualizations considering the target questions.
 
 - Which product of all the stores generates the highest profits: For this, the products were analyzed with respect to sales.
 
-![Top products](https://github.com/emmathedata/Manny_-portfolio/blob/main/Images/Top_products.png)
+![Top products](/Images/Top_products.png)
 
 - Which months of 2019 will generate the highest profits and on which dates? The sales analysis was made over time
 
-![Sales by Month](https://github.com/emmathedata/Manny_-portfolio/blob/main/Images/Sales%20by%20month.png)
+![Sales by Month](/Images/Sales%20by%20month.png)
 
 - What states purchase our products the most?
-![Sales by State](images/Sales_by_State.png)
+![Sales by State](/images/Sales_by_State.png)
 
 
 ## Vizualitation:
 Finally we obtained a dashboard showing the sales in a general way.
 You can see the dashboard below 
-![Sales Overview](https://github.com/emmathedata/Manny_-portfolio/blob/main/Images/overview.png)
+![Sales Overview](/Images/overview.png)
 
 ## Conclutions:
 - Despite being the least sold product, the McBook Pro Laptop remains the best selling product every month.
