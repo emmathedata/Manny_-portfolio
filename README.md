@@ -57,4 +57,4 @@ You can see the dashboard below
 - Despite being the least sold product, the McBook Pro Laptop remains the best selling product every month.
 - The best selling months are October and December.
 - Sales in California were much higher than in the other states, concentrating marketing efforts here would generate higher profits but it is necessary to analyze the competition and market saturation for a better conclusion.
-- It is advisable to focus marketing efforts on the McBook Pro as slightly increasing sales in this product could considerably increase profits.
+- It is advisable to focus marketing efforts on the McBook Pro as slightly increasing sales in this product could considerably increase profits
